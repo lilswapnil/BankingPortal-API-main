@@ -15,11 +15,9 @@
     </a>
   </div>
 
-  ## API Documentation
-- https://github.com/abhi9720/BankingPortal-API/wiki
 
 ## Banking Portal UI
-- https://github.com/abhi9720/BankingPortal-UI
+- 
   
 <img width="948" alt="image" src="https://github.com/abhi9720/BankingPortal-API/assets/68281476/237694d9-6e8d-48e8-a7a2-982b9f8ca671">
 
